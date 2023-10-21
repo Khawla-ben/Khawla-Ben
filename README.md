@@ -6,7 +6,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Raqioui Fatima-Ezzahra</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm KHAWLA BEN HAMMOU</h1></summary>
   </ul>
 </div>
 
@@ -27,21 +27,10 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently full-time student at 1337.
 
-- ☁️ Interested in Cyber-Security and computer hardware
-
-- 📝 Medium Profile [link](https://medium.com/@fatimaezzahraraqioui)
-
-- Gmail: Khawla-Ben@student.1337.ma
 
 <!--Intro end-->
-<div align="center">
-  <h1>1337 Profile</h1>
-</div>
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/Khawla-Ben" alt="Khawla-Ben's 42 stats" /></a>
-</div>
+
   
 
 
