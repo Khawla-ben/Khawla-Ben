@@ -5,26 +5,11 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm KHAWLA BEN HAMMOU</h1></summary>
-  </ul>
+  <div align="center">
+    <h1 style="display: inline-block">Hi 👋, I'm KHAWLA BEN HAMMOU</h1>
+    <p style="display: inline-block"> This is my second github is Khawla-Ben1 </p>
+  </div>
 </div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"></h2></summary>
-  </ul>
-</div>
-
 
 <!--Intro start-->
 
