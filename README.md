@@ -16,18 +16,23 @@
 
 <!--Intro end-->
 
-## Introduction
 
-##I am a passionate software developer with a focus on web development and a strong background in JavaScript and React. I love building user-##friendly and performant web applications that solve real-world problems. With several years of experience in the industry, I have successfully ##delivered projects for clients across various domains.
+<details>
+  <summary>Click to expand</summary>
+
+  <!-- Content to be hidden -->
+ I am a passionate software developer with a focus on web development and a strong background in JavaScript and React. I love building user-friendly and performant web applications that solve real-world problems. With several years of experience in the industry, I have successfully delivered projects for clients across various domains.
 
 <!-- Add your content here -->
 ## Skills
 
-##- Front-end Development: HTML, CSS, JavaScript, React
-##- Back-end Development: Node.js, Express, MongoDB
-##- Database: MySQL, PostgreSQL
-##- Version Control: Git, GitHub
-##- Project Management: Agile, Scrum
+- Front-end Development: HTML, CSS, JavaScript, React
+- Back-end Development: Node.js, Express, MongoDB
+- Database: MySQL, PostgreSQL
+- Version Control: Git, GitHub
+- Project Management: Agile, Scrum
+
+</details>
   
 
 
