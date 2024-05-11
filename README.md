@@ -21,16 +21,25 @@
   <summary>Click to expand</summary>
 
   <!-- Content to be hidden -->
+  
+## Who am i ?
  I am a passionate software developer .
 
-<!-- Add your content here -->
 ## Skills
 
+- Programming Languages: C, C++, Python
 - Front-end Development: HTML, CSS, JavaScript
 - Back-end Development: Django
 - Version Control: Git, GitHub
+- DevOps: Docker
+-  Networking: TCP/IP, Firewall
+
+ ## Education
+- Student at 1337 which is a part of 42 network
+## Projects
+You will find all my projects in the Repositories section and in my second github "Khawla-Ben1"😎
+
 </details>
-  
 
 
 <!--- stats & Trophy (start) -->
