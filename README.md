@@ -6,7 +6,7 @@
 <!-- Add your introduction -->
 <div align="center">
   <h1>Hi 👋, I'm KHAWLA BEN HAMMOU</h1>
-  <p>This is my second GitHub profile. I'm a passionate software developer.</p>
+  <p>This is my first GitHub profile. I'm a passionate software developer.</p>
 </div>
 
 <details>
