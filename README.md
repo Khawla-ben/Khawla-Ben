@@ -17,11 +17,13 @@
 
   ## Skills
   - **Programming Languages:** C, C++, Python
-  - **Front-end Development:** HTML, CSS, JavaScript
-  - **Back-end Development:** Django
+  - **Web Development::** HTML, CSS, Django
+  - **Database Management:** mariadb, MySQL, PostgreSQL
+  - **Scripting:** Shell
   - **Version Control:** Git, GitHub
-  - **DevOps:** Docker
+  - **Containerization & Orchestration:** Docker
   - **Networking:** TCP/IP, Firewall
+  - **Software Development Methodologies:** UML
 
   ## Education
   - Student at 1337, a part of the 42 network
