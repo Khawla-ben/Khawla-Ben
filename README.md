@@ -7,6 +7,7 @@
 <div align="center">
   <h1>Hi 👋, I'm KHAWLA BEN HAMMOU</h1>
   <p>This is my first GitHub profile. I'm a passionate software developer.</p>
+    This is my second Github profile [Khawla-Ben1](https://github.com/Khawla-Ben1) 😎
 </div>
 
 <details>
