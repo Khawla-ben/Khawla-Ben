@@ -6,16 +6,13 @@
 <!-- Add your introduction -->
 <div align="center">
   <h1>Hi 👋, I'm KHAWLA BEN HAMMOU</h1>
-  <p>This is my first GitHub profile. I'm a passionate software developer.</p>
-    This is my second Github profile [Khawla-Ben1](https://github.com/Khawla-Ben1) 😎
+  <p>                  I'm a passionate software developer.</p>
+    This is my second Github profile (https://github.com/Khawla-Ben1) 😎
 </div>
 
 <details>
   <summary><b>About Me</b></summary>
-  
-  ## Who am I?
-  I am a passionate software developer.
-
+ 
   ## Skills:
   - **Programming Languages:** C, C++, Python
   - **Web Development:** HTML, CSS, Django
@@ -61,15 +58,7 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
       </a>
-      <a href="https://en.wikipedia.org/wiki/TCP/IP" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/TCP_IP_icon.svg" alt="TCP/IP" width="40" height="40"/>
-      </a>
-      <a href="https://en.wikipedia.org/wiki/Shell_(computing)" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Bash_Logo_Colored_Icon.svg" alt="Shell" width="40" height="40"/>
-      </a>
-      <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Unified_Modeling_Language_%28UML%29.svg" alt="UML" width="40" height="40"/>
-      </a>
+      
   </p>
 
   ## Education:
@@ -79,7 +68,6 @@
   You can find all my projects in the Repositories section and on my second GitHub profile [Khawla-Ben1](https://github.com/Khawla-Ben1) 😎
 
   ## 📫 How to reach me:
-  <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="mailto:benhammoukhawla99@gmail.com">
       <img src="https://img.icons8.com/material-outlined/24/000000/email.png" alt="Email" />
