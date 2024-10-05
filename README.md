@@ -15,7 +15,7 @@
   ## Who am I?
   I am a passionate software developer.
 
-  ## Skills
+  ## Skills:
   - **Programming Languages:** C, C++, Python
   - **Web Development:** HTML, CSS, Django
   - **Database Management:** MariaDB, MySQL, PostgreSQL
@@ -25,7 +25,7 @@
   - **Networking:** TCP/IP, Firewall
   - **Software Development Methodologies:** UML
 
-  <h3 align="left">Languages and Tools:</h3>
+  ## Languages and Tools:
   <p align="left">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -71,13 +71,13 @@
       </a>
   </p>
 
-  ## Education
+  ## Education:
   - Student at 1337, a part of the 42 network
   
-  ## Projects
+  ## Projects:
   You can find all my projects in the Repositories section and on my second GitHub profile [Khawla-Ben1](https://github.com/Khawla-Ben1) 😎
 
-  ## 📫 How to reach me
+  ## 📫 How to reach me:
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="mailto:benhammoukhawla99@gmail.com">
