@@ -9,9 +9,6 @@
   <p>                  I'm a passionate software developer.</p>
     This is my second Github profile (https://github.com/Khawla-Ben1) 😎
 </div>
-
-<details>
-  <summary><b>About Me</b></summary>
  
   ## Skills:
   - **Programming Languages:** C, C++, Python
