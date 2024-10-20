@@ -7,7 +7,7 @@
 
 ## Skills:
 - **Programming Languages:** C, C++, Python
-- **Web Development:** HTML, CSS, Django
+- **Web Development:** HTML, CSS, JS, Django
 - **Database Management:** MariaDB, MySQL, PostgreSQL
 - **Scripting:** Shell
 - **Version Control:** Git, GitHub
