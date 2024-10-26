@@ -20,7 +20,6 @@ Feel free to check out my projects and connect—I’m always up for discussing 
 - **Software Development Methodologies:** UML
 
 ## 💻 Languages and Tools:
-<p align="left">
     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/python-%233A74C6.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +34,6 @@ Feel free to check out my projects and connect—I’m always up for discussing 
     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/postgresql-%003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-</p>
 
 ## Projects:
 You can find all my projects in the Repositories section and on my second GitHub profile [Khawla-Ben1](https://github.com/Khawla-Ben1) 😎
