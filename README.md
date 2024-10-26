@@ -1,8 +1,9 @@
 <!-- Add your introduction -->
 <div align="center">
   <h1>Hi 👋, I'm KHAWLA BEN HAMMOU</h1>
-  <p>I'm a passionate software developer.</p>
-  <p>This is my second GitHub profile: <a href="https://github.com/Khawla-Ben1" target="_blank" rel="noreferrer">Khawla-Ben1</a> 😎</p>
+  <p></p># 💫 About Me:<p></p>
+  I'm a passionate software developer
+ This is my second GitHub profile: <a href="https://github.com/Khawla-Ben1" target="_blank" rel="noreferrer">Khawla-Ben1</a> 😎
 </div>
 
 ## Skills:
@@ -61,8 +62,7 @@ You can find all my projects in the Repositories section and on my second GitHub
 ## 📫 How to reach me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kben-ham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawla-ben-hammou-510b2318b/) 
 
-
-<!-- Add your GitHub stats -->
+# 📊 GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Khawla-Ben&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
     <br><br>
@@ -73,8 +73,9 @@ You can find all my projects in the Repositories section and on my second GitHub
 <p align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Khawla-Ben&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Most Used Languages" />
 </p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khawla-Ben&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Add your GitHub trophies -->
+## 🏆 GitHub Trophies
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Khawla-Ben&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 </p>
