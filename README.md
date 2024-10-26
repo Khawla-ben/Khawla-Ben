@@ -21,48 +21,20 @@ Feel free to check out my projects and connect—I’m always up for discussing 
 
 ## 💻 Languages and Tools:
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white" alt="C" width="80"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" width="80"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Python-%233A74C6.svg?logo=python&logoColor=white" alt="Python" width="80"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django" width="80"/>
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="80"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS" width="80"/>
-    </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/JavaScript-%F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" width="80"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" width="80"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Nginx-%009639.svg?logo=nginx&logoColor=white" alt="Nginx" width="80"/>
-    </a>
-    <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Postman-%FF6C37.svg?logo=postman&logoColor=white" alt="Postman" width="80"/>
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/MariaDB-%2300A3E0.svg?logo=mariadb&logoColor=white" alt="MariaDB" width="80"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/MySQL-%2300A9E4.svg?logo=mysql&logoColor=white" alt="MySQL" width="80"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/PostgreSQL-%003B57.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" width="80"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Git-%F05033.svg?logo=git&logoColor=white" alt="Git" width="80"/>
-    </a>
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-%233A74C6.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+    ![Postman](https://img.shields.io/badge/postman-%FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+    ![MariaDB](https://img.shields.io/badge/mariadb-%2300A3E0.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/postgresql-%003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </p>
 
 ## Projects:
