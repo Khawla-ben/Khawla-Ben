@@ -1,7 +1,11 @@
 <!-- Add your introduction -->
 <div align="center">
   <h1>Hi 👋, I'm KHAWLA BEN HAMMOU</h1>
-  <p>I'm a passionate software developer</div>p
+  <p> I’m a passionate software developer currently studying at 1337, part of the 42 Network. I thrive on solving complex problems and continuously expanding my skill set. My journey in programming started with a fascination for technology, and I love exploring new languages and frameworks.
+
+Collaboration is key to innovation, and I'm always eager to team up on exciting projects. I enjoy contributing to open-source initiatives and learning from others in the community.
+
+Feel free to check out my projects and connect—I’m always up for discussing new ideas!</p>
  This is my second GitHub profile: <a href="https://github.com/Khawla-Ben1" target="_blank" rel="noreferrer">Khawla-Ben1</a> 😎
 </div>
 
@@ -15,7 +19,7 @@
 - **Networking:** TCP/IP, Firewall
 - **Software Development Methodologies:** UML
 
-## Languages and Tools:
+## 💻 Languages and Tools:
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -52,14 +56,13 @@
     </a>
 </p>
 
-## Education:
-- Student at 1337, a part of the 42 network
   
 ## Projects:
 You can find all my projects in the Repositories section and on my second GitHub profile [Khawla-Ben1](https://github.com/Khawla-Ben1) 😎
 
 ## 📫 How to reach me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kben-ham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawla-ben-hammou-510b2318b/) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:benhammoukhawla99@gmail.com)
 
 # 📊 GitHub Stats:
 <p align="center">
