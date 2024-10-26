@@ -22,46 +22,46 @@ Feel free to check out my projects and connect—I’m always up for discussing 
 ## 💻 Languages and Tools:
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white" alt="C" width="80"/>
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" width="80"/>
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Python-%233A74C6.svg?logo=python&logoColor=white" alt="Python" width="80"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django" width="80"/>
     </a>
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" width="80"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS" width="80"/>
     </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/JavaScript-%F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" width="80"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" width="80"/>
     </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Nginx-%009639.svg?logo=nginx&logoColor=white" alt="Nginx" width="80"/>
     </a>
     <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Postman-%FF6C37.svg?logo=postman&logoColor=white" alt="Postman" width="80"/>
     </a>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/MariaDB-%2300A3E0.svg?logo=mariadb&logoColor=white" alt="MariaDB" width="80"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/MySQL-%2300A9E4.svg?logo=mysql&logoColor=white" alt="MySQL" width="80"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-%003B57.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" width="80"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Git-%F05033.svg?logo=git&logoColor=white" alt="Git" width="80"/>
     </a>
 </p>
 
