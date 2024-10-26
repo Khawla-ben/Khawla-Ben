@@ -59,8 +59,7 @@
 You can find all my projects in the Repositories section and on my second GitHub profile [Khawla-Ben1](https://github.com/Khawla-Ben1) 😎
 
 ## 📫 How to reach me:
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/khawlabenhammou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawla-ben-hammou-510b2318b/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kben-ham) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawla-ben-hammou-510b2318b/) 
 
 
 <!-- Add your GitHub stats -->
