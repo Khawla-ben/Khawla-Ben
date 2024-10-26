@@ -1,8 +1,7 @@
 <!-- Add your introduction -->
 <div align="center">
   <h1>Hi 👋, I'm KHAWLA BEN HAMMOU</h1>
-  <p></p># 💫 About Me:<p></p>
-  I'm a passionate software developer
+  <p>I'm a passionate software developer</div>p
  This is my second GitHub profile: <a href="https://github.com/Khawla-Ben1" target="_blank" rel="noreferrer">Khawla-Ben1</a> 😎
 </div>
 
@@ -68,9 +67,8 @@ You can find all my projects in the Repositories section and on my second GitHub
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khawla-Ben&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khawla-Ben&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khawla-Ben&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
