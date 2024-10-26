@@ -59,16 +59,9 @@
 You can find all my projects in the Repositories section and on my second GitHub profile [Khawla-Ben1](https://github.com/Khawla-Ben1) 😎
 
 ## 📫 How to reach me:
-<p align="left">
-    <a href="mailto:benhammoukhawla99@gmail.com" style="display: inline-flex; align-items: center;">
-        <img src="https://img.icons8.com/material-outlined/24/000000/email.png" alt="Email" style="margin-right: 5px;"/>
-        <strong style="display: none;">benhammoukhawla99@gmail.com</strong> <!-- Hide the email address -->
-    </a>
-    <span style="margin-left: 10px; margin-right: 10px;">|</span> <!-- Optional separator -->
-    <a href="https://www.linkedin.com/in/khawla-ben-hammou-510b2318b/" target="_blank" style="margin-left: 10px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/khawlabenhammou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khawla-ben-hammou-510b2318b/) 
+
 
 <!-- Add your GitHub stats -->
 <p align="center">
