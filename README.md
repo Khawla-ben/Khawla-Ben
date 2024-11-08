@@ -10,14 +10,24 @@ Feel free to check out my projects and connect—I’m always up for discussing 
 </div>
 
 ## Skills:
-- **Programming Languages:** C, C++, Python
-- **Web Development:** HTML, CSS, JS, Django
-- **Database Management:** MariaDB, MySQL, PostgreSQL
-- **Scripting:** Shell
-- **Version Control:** Git, GitHub
-- **Containerization & Orchestration:** Docker
-- **Networking:** TCP/IP, Firewall
-- **Software Development Methodologies:** UML
+**Programming & Software Development:**
+----------------------------------------
+  - **Programming Languages:** C, C++, Python
+  - **Web Development:** HTML, CSS, JS, Django
+  - **Database Management:** MariaDB, MySQL, PostgreSQL
+  - **Scripting:** Shell
+  - **Version Control:** Git, GitHub
+  - **Containerization & Orchestration:** Docker
+  - **Networking:** TCP/IP, Firewall
+  - **Software Development Methodologies:** UML
+    
+**Mechatronics & Mechanical Engineering:**
+----------------------------------------
+  - **CAD Software:** CATIA, SolidWorks
+  - **Technical Drawing:** Dessin technique
+  - **Mechanical Product Design & Development:** Conception de produits mécaniques
+  - **Automation & Robotics:** Arduino, Robotique, Automatisation industrielle
+  - **Version Control:** C#
 
 ## 💻 Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2338BDF8.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230DB7F3.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
