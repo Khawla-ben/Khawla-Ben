@@ -1,12 +1,13 @@
 <!-- Add your introduction -->
 <div align="center">
   <h1>Hi 👋, I'm KHAWLA BEN HAMMOU</h1>
-  <p> I’m a passionate software developer currently studying at 1337, part of the 42 Network. I thrive on solving complex problems and continuously expanding my skill set. My journey in programming started with a fascination for technology, and I love exploring new languages and frameworks.
+  <p> I’m a passionate software developer currently studying at 1337, part of the 42 Network, in mechatronics and
+mechanical engineering. I thrive on solving complex problems and continuously expanding my skill set. My journey in programming started with a fascination for technology, and I love exploring new languages and frameworks.
 
 Collaboration is key to innovation, and I'm always eager to team up on exciting projects. I enjoy contributing to open-source initiatives and learning from others in the community.
 
 Feel free to check out my projects and connect—I’m always up for discussing new ideas!</p>
- This is my second GitHub profile: <a href="https://github.com/Khawla-Ben1" target="_blank" rel="noreferrer">Khawla-Ben1</a> 😎
+ This is my second GitHub profile: <a href="https://github.com/Khawla-Ben1" target="_blank" rel="noreferrer">Khawla-Ben1</a>
 </div>
 
 ## Skills:
