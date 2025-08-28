@@ -50,7 +50,4 @@ You can find all my projects in the Repositories section and on my second GitHub
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khawla-Ben&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Khawla-Ben&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-</p>
+
